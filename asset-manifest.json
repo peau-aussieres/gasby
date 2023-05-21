@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dbaaa22c.css",
+    "main.js": "./static/js/main.a377d364.js",
+    "module.wasm": "./1e0976fb035fa4286001.module.wasm",
+    "service-worker.js": "./service-worker.js",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.dbaaa22c.css",
+    "static/js/main.a377d364.js"
+  ]
+}
